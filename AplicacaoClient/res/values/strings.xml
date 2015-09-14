@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Serviço de Localização</string>
+    <string name="title_section2">Meus amigos</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="meu_trajeto">Para rastreamento</string>
+    <string name="title_activity_navigation">Serviço de Localização</string>
+    <string name="title_activity_minha_localizacao">Localização Atual</string>
+    <string name="title_activity_meus_trajetos">MeusTrajetos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

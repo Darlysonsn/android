@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="title_activity_login">Serviço de Localização</string>
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Conectar</string>
+    <string name="action_sign_in_short">Conectar</string>
+    <string name="error_invalid_password">Senha curta</string>
+    <string name="error_incorrect_password">Senha Incorreta</string>
+    <string name="error_field_required">Campo obrigatório</string>
+
+</resources>
