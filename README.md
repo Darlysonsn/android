@@ -13,5 +13,5 @@ Neste projeto foi abordado temas como:
 - Integração com uma API do tipo RESTFul, criada com Apigility;
 - Persistência de Preferências de Usuários;
 
-#android #api 
+#android #api #android #apigility #rest #saci #ifsul #bage #restful
 
