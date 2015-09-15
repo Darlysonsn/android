@@ -136,8 +136,7 @@ public class GPS  implements LocationListener {
 	 		    		if (location != null)
 	 				    {
 	 		    	    	
-	 		    	    	Log.d("LOCALIZACAO GPS", " ENTRA AQUI LOCALIZACAO POR GPS : " + location);
-	 		    	    	latitude = location.getLatitude();
+	 		    			latitude = location.getLatitude();
 	 		    	    	longitude = location.getLongitude();
 	 		    	    	
 	 		    	    	
