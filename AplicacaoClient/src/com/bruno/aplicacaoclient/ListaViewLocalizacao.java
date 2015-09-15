@@ -68,7 +68,6 @@ public class ListaViewLocalizacao extends ActionBarActivity {
      private void preencheLista(){
     
 	      Itens itemsData[] = new Itens[localizacao.length()];
-	      itemsData[0] = new Itens("", R.drawable.localizacao, 0);
 	      for (int i=0; i< itemsData.length; i++){
 	    	  try {
 				itemsData[i] = new Itens("LOCALIZACAO "+localizacao.getJSONObject(i).getString("cod_localizacao"), R.drawable.localizacao, localizacao.getJSONObject(i).getInt("cod_localizacao"));
