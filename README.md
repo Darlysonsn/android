@@ -12,6 +12,7 @@ Neste projeto foi abordado temas como:
 - Requisições HTTP ( GET e POST);
 - Integração com uma API do tipo RESTFul, criada com Apigility;
 - Persistência de Preferências de Usuários;
+- Conexão de dados;
 
 #android #api #android #apigility #rest #saci #ifsul #bage #restful
 
